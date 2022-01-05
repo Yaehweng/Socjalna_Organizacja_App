@@ -1,0 +1,14 @@
+C:\Users\mimil\source\repos\Socjalna_Organizacja_MB\Socjalna_Organizacja_MB\bin\Debug\Socjalna_Organizacja_MB.exe.config
+C:\Users\mimil\source\repos\Socjalna_Organizacja_MB\Socjalna_Organizacja_MB\bin\Debug\Socjalna_Organizacja_MB.exe
+C:\Users\mimil\source\repos\Socjalna_Organizacja_MB\Socjalna_Organizacja_MB\bin\Debug\Socjalna_Organizacja_MB.pdb
+C:\Users\mimil\source\repos\Socjalna_Organizacja_MB\Socjalna_Organizacja_MB\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\mimil\source\repos\Socjalna_Organizacja_MB\Socjalna_Organizacja_MB\obj\Debug\Socjalna_Organizacja_MB.Form1.resources
+C:\Users\mimil\source\repos\Socjalna_Organizacja_MB\Socjalna_Organizacja_MB\obj\Debug\Socjalna_Organizacja_MB.Forms.FormDashboard.resources
+C:\Users\mimil\source\repos\Socjalna_Organizacja_MB\Socjalna_Organizacja_MB\obj\Debug\Socjalna_Organizacja_MB.Properties.Resources.resources
+C:\Users\mimil\source\repos\Socjalna_Organizacja_MB\Socjalna_Organizacja_MB\obj\Debug\Socjalna_Organizacja_MB.UserControls.DashboardUC.resources
+C:\Users\mimil\source\repos\Socjalna_Organizacja_MB\Socjalna_Organizacja_MB\obj\Debug\Socjalna_Organizacja_MB.csproj.GenerateResource.cache
+C:\Users\mimil\source\repos\Socjalna_Organizacja_MB\Socjalna_Organizacja_MB\obj\Debug\Socjalna_Organizacja_MB.csproj.CoreCompileInputs.cache
+C:\Users\mimil\source\repos\Socjalna_Organizacja_MB\Socjalna_Organizacja_MB\obj\Debug\Socjalna_Organizacja_MB.exe
+C:\Users\mimil\source\repos\Socjalna_Organizacja_MB\Socjalna_Organizacja_MB\obj\Debug\Socjalna_Organizacja_MB.pdb
+C:\Users\mimil\source\repos\Socjalna_Organizacja_MB\Socjalna_Organizacja_MB\obj\Debug\Socjalna_Organizacja_MB.UserControls.DonnersUC.resources
+C:\Users\mimil\source\repos\Socjalna_Organizacja_MB\Socjalna_Organizacja_MB\obj\Debug\Socjalna_Organizacja_MB.csproj.AssemblyReference.cache
