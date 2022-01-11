@@ -23,6 +23,7 @@ namespace Socjalna_Organizacja_MB.Forms
         {
             dashboardUC1.BringToFront();
             labelTitle.Text = "Tablica";
+            //<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
         }
 
         private void button6_Click(object sender, EventArgs e)
@@ -50,6 +51,7 @@ namespace Socjalna_Organizacja_MB.Forms
             donnersUC1.BringToFront();
             dashboardUC1.Hide();
             labelTitle.Text = "Dodaj lub zaktualizuj rejestr dawców";
+            //<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
         }
 
         private void button8_Click(object sender, EventArgs e)
